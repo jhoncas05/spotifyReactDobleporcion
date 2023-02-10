@@ -1,0 +1,12 @@
+.banner{
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/web1-d8c0e.appspot.com/o/double.png?alt=media&token=5cf0003c-54c8-4048-b10c-1b58a2eb059c);
+    background-position: top center;
+    background-size: cover;
+    padding: 25% 20% 40% 20%;
+}
+.text{
+    color: crimson;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
