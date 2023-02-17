@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spotifyReactDobleporcion/static/css/main.45d5ff43.css",
+    "main.js": "/spotifyReactDobleporcion/static/js/main.ddf35b23.js",
+    "index.html": "/spotifyReactDobleporcion/index.html",
+    "main.45d5ff43.css.map": "/spotifyReactDobleporcion/static/css/main.45d5ff43.css.map",
+    "main.ddf35b23.js.map": "/spotifyReactDobleporcion/static/js/main.ddf35b23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45d5ff43.css",
+    "static/js/main.ddf35b23.js"
+  ]
+}
