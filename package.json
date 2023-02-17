@@ -41,5 +41,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://jhoncas05.github.io/spotifyReactDobleporcion/"
+  "homepage": "https://jhoncas05.github.io/spotifyReactDobleporcion/",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
