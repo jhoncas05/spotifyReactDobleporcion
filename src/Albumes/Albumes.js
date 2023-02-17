@@ -21,7 +21,7 @@ export function Albumes (){
     console.log(canciones);
     },[])
 
-    if(carga==true){
+    if(carga===true){
 
        return(
         <>
